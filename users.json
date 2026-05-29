@@ -1,0 +1,27 @@
+[
+  {
+    "id": "admin_1",
+    "email": "vethesh3@gmail.com",
+    "password": "$2a$10$05LqZ4wcR7ro48cuAq4Zu.dhu22mRYYshA9P/rDyaowh53JQ37cyu",
+    "role": "admin",
+    "status": "active"
+  },
+  {
+    "id": "1766394048786",
+    "name": "Vetheshwaran P",
+    "phone": "8248860016",
+    "email": "vetheshwaran@gmail.com",
+    "password": "$2a$10$309hrjK74/1YDNzareZsB.GwdxxlBfAtUsuw8QlXE9SCoJ9MjS39.",
+    "role": "user",
+    "status": "rejected"
+  },
+  {
+    "id": "1768303000797",
+    "name": "Vetheshwaran",
+    "phone": "8248860018",
+    "email": "veth@gmail.com",
+    "password": "$2a$10$sWQ8OcirGYUSsxlzX4o1J..mzCTbdLWkA9BYBiRcYTLAUnJsiy6fm",
+    "role": "user",
+    "status": "rejected"
+  }
+]
